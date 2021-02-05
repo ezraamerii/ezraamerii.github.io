@@ -6,6 +6,6 @@ Ezra
 
 Here is some text 
 
-## The first post of my website
+The first post of my website
 
 This is the first post
